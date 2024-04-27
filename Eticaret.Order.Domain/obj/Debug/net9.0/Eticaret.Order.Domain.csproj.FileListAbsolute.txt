@@ -1,0 +1,15 @@
+C:\Users\umuto\source\repos\E-Ticaret-Case\Eticaret.Order.Domain\bin\Debug\net9.0\Eticaret.Order.Domain.deps.json
+C:\Users\umuto\source\repos\E-Ticaret-Case\Eticaret.Order.Domain\bin\Debug\net9.0\Eticaret.Order.Domain.dll
+C:\Users\umuto\source\repos\E-Ticaret-Case\Eticaret.Order.Domain\bin\Debug\net9.0\Eticaret.Order.Domain.pdb
+C:\Users\umuto\source\repos\E-Ticaret-Case\Eticaret.Order.Domain\bin\Debug\net9.0\Eticaret.Order.Domain.Core.dll
+C:\Users\umuto\source\repos\E-Ticaret-Case\Eticaret.Order.Domain\bin\Debug\net9.0\Eticaret.Order.Domain.Core.pdb
+C:\Users\umuto\source\repos\E-Ticaret-Case\Eticaret.Order.Domain\obj\Debug\net9.0\Eticaret.Order.Domain.csproj.AssemblyReference.cache
+C:\Users\umuto\source\repos\E-Ticaret-Case\Eticaret.Order.Domain\obj\Debug\net9.0\Eticaret.Order.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umuto\source\repos\E-Ticaret-Case\Eticaret.Order.Domain\obj\Debug\net9.0\Eticaret.Order.Domain.AssemblyInfoInputs.cache
+C:\Users\umuto\source\repos\E-Ticaret-Case\Eticaret.Order.Domain\obj\Debug\net9.0\Eticaret.Order.Domain.AssemblyInfo.cs
+C:\Users\umuto\source\repos\E-Ticaret-Case\Eticaret.Order.Domain\obj\Debug\net9.0\Eticaret.Order.Domain.csproj.CoreCompileInputs.cache
+C:\Users\umuto\source\repos\E-Ticaret-Case\Eticaret.Order.Domain\obj\Debug\net9.0\Eticaret.C9263947.Up2Date
+C:\Users\umuto\source\repos\E-Ticaret-Case\Eticaret.Order.Domain\obj\Debug\net9.0\Eticaret.Order.Domain.dll
+C:\Users\umuto\source\repos\E-Ticaret-Case\Eticaret.Order.Domain\obj\Debug\net9.0\refint\Eticaret.Order.Domain.dll
+C:\Users\umuto\source\repos\E-Ticaret-Case\Eticaret.Order.Domain\obj\Debug\net9.0\Eticaret.Order.Domain.pdb
+C:\Users\umuto\source\repos\E-Ticaret-Case\Eticaret.Order.Domain\obj\Debug\net9.0\ref\Eticaret.Order.Domain.dll

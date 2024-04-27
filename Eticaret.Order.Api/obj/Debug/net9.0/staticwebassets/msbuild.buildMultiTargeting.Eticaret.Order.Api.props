@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Eticaret.Order.Api.props" />
+</Project>

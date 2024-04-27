@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "dqzrqZKv4GEy1RqnxkA7kZ503/3U3ONI3qLkDTF13SI=",
+  "Source": "Eticaret.Order.Api",
+  "BasePath": "_content/Eticaret.Order.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

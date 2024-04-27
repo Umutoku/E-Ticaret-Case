@@ -1,0 +1,11 @@
+C:\Users\umuto\source\repos\E-Ticaret-Case\Order.Shared\bin\Debug\net9.0\Order.Shared.deps.json
+C:\Users\umuto\source\repos\E-Ticaret-Case\Order.Shared\bin\Debug\net9.0\Order.Shared.dll
+C:\Users\umuto\source\repos\E-Ticaret-Case\Order.Shared\bin\Debug\net9.0\Order.Shared.pdb
+C:\Users\umuto\source\repos\E-Ticaret-Case\Order.Shared\obj\Debug\net9.0\Order.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umuto\source\repos\E-Ticaret-Case\Order.Shared\obj\Debug\net9.0\Order.Shared.AssemblyInfoInputs.cache
+C:\Users\umuto\source\repos\E-Ticaret-Case\Order.Shared\obj\Debug\net9.0\Order.Shared.AssemblyInfo.cs
+C:\Users\umuto\source\repos\E-Ticaret-Case\Order.Shared\obj\Debug\net9.0\Order.Shared.csproj.CoreCompileInputs.cache
+C:\Users\umuto\source\repos\E-Ticaret-Case\Order.Shared\obj\Debug\net9.0\Order.Shared.dll
+C:\Users\umuto\source\repos\E-Ticaret-Case\Order.Shared\obj\Debug\net9.0\refint\Order.Shared.dll
+C:\Users\umuto\source\repos\E-Ticaret-Case\Order.Shared\obj\Debug\net9.0\Order.Shared.pdb
+C:\Users\umuto\source\repos\E-Ticaret-Case\Order.Shared\obj\Debug\net9.0\ref\Order.Shared.dll

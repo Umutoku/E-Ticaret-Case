@@ -1,0 +1,15 @@
+version: "3.8"
+services:
+  orderdb:
+    image: mcr.microsoft.com/mssql/server:2019-latest
+  rabbitmq:
+    image: rabbitmq:3.8.14-management
+  order.api:
+    image: order_api_image
+    build:
+      context: .
+      dockerfile: Eticaret.Order.API/Dockerfile
+ 
+
+volumes:
+  orderdb_volume:

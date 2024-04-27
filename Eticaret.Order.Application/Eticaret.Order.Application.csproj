@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="13.0.1" />
+    <PackageReference Include="MassTransit" Version="8.2.2-develop.1793" />
+    <PackageReference Include="MassTransit.Kafka" Version="8.2.2-develop.1793" />
+    <PackageReference Include="MassTransit.RabbitMQ" Version="8.2.2-develop.1793" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Eticaret.Order.Domain\Eticaret.Order.Domain.csproj" />
+    <ProjectReference Include="..\ETicaret.Order.Infrastructure\ETicaret.Order.Infrastructure.csproj" />
+    <ProjectReference Include="..\Order.Shared\Order.Shared.csproj" />
+  </ItemGroup>
+
+</Project>
